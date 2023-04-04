@@ -1,4 +1,4 @@
-# Presentación Ingacio Rzeszut
+# Presentación Ignacio Rzeszut
 
 ![fotoweb](programacion.jpg)
 
